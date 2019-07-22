@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+<movie>
+		<code>101</code>
+		<title>Kabir Singh</title>
+			<rlease-date>
+				<day>13</day>
+				<month>6</month>
+				<year>2019</year>
+			</rlease-date>
+		<theater-name>Inox</theater-name>
+		<theater-name>CityPride</theater-name>
+			<city>Mumbai</city>
+			<city>Pune</city>
+			<city>Delhi</city>
+</movie>
+
+<movie>
+		<code>105</code>
+		<title>Super 30</title>
+		<rlease-date>
+			<day></day>
+			<month>6</month>
+			<year>2019</year>
+		</rlease-date>
+		<theater-name>PVR Cinemas</theater-name>
+</movies>
